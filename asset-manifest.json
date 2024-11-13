@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/prototype_lolypoly/static/css/main.e4f2c774.css",
-    "main.js": "/prototype_lolypoly/static/js/main.10989bab.js",
+    "main.js": "/prototype_lolypoly/static/js/main.8e62b958.js",
     "static/js/453.7ec2f2b2.chunk.js": "/prototype_lolypoly/static/js/453.7ec2f2b2.chunk.js",
     "static/media/logo.svg": "/prototype_lolypoly/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/prototype_lolypoly/index.html",
     "main.e4f2c774.css.map": "/prototype_lolypoly/static/css/main.e4f2c774.css.map",
-    "main.10989bab.js.map": "/prototype_lolypoly/static/js/main.10989bab.js.map",
+    "main.8e62b958.js.map": "/prototype_lolypoly/static/js/main.8e62b958.js.map",
     "453.7ec2f2b2.chunk.js.map": "/prototype_lolypoly/static/js/453.7ec2f2b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e4f2c774.css",
-    "static/js/main.10989bab.js"
+    "static/js/main.8e62b958.js"
   ]
 }
